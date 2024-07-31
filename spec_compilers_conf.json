@@ -1,0 +1,14 @@
+{
+    "icx23": {
+        "folder":"SPEC17-1.1.9-ic2023.2.3",
+        "script":"Spec17Rate_ic2023_1_v118",
+        "st":"ic2023.2.3-win-alderlake-r-1copy-20231201.cfg",
+        "mt":"ic2023.2.3-win-alderlake-r-20231201.cfg"
+    },
+    "icx22":{
+        "folder":"SPEC.CPU2017_V1.1.8_IC2022.1",
+        "script":"Spec17Rate_ic2022_1_v118.bat",
+        "st":"ic2022.1-win-alderlake-r-1copy-20220316.cfg",
+        "mt":"ic2022.1-win-alderlake-r-20220316.cfg"
+    }
+}
